@@ -9,6 +9,7 @@ Automatically install all Kali linux tools
 
 # Requirements
 - Python 2.7
+  - sudo apt-get install python2.7 python-pip
 - An operating system (tested on Ubuntu)
 
 # Installation
